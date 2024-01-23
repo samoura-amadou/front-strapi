@@ -1,4 +1,4 @@
-# frontand-api
+# front-api
 
 ## Project setup
 ```
